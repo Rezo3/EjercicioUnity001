@@ -1,4 +1,4 @@
-Equipo: Randomteam
+#Equipo: Randomteam
 
 - Kenan Torres Pérez: Dibujo 10, Modelado 10, Animacion 8, Texturizado 4, Programacion 0
 - Ubay Cruz Darias: Dibujo 7, Modelado 8, Animacion 8, Texturizado 8, Programacion 0
@@ -14,7 +14,7 @@ Propuesta:
 - Recursos: Unity, Blender, Photoshop/Gimp/Krita, etc
 - Tiempos: Todo lo que nos den.
 
-- Nombre: "Entorno Interactivo" (en desarrollo)
+#Nombre: "Entorno Interactivo" (en desarrollo)
 - Descripcion: Juego interactivo con sensores y utilizando realidad aumentada con un movil.
 - Objetivos: Realizar acciones en lugares historicos o relevantes a nivel mundial y que conlleve aprendizaje para el usuario.
 - Publico Objetivo: Toda persona con un smartphone y los sensores necesarios.
@@ -22,14 +22,14 @@ Propuesta:
 - Recursos: Unity, Blender, Photoshop/Gimp/Krita, etc
 - Tiempos: El que haya.
 
-- Nombre: "Action RPG"
+#Nombre: "Action RPG"
 - Descripcion: Un RPG Igavania con un asentamiento de npcs y diversas quests para realizar en una pequeña mazmorra.
 - Objetivos: Completar quests.
 - Publico Objetivo: Usuarios de Windows, Linux, MacOS, iOS, Android, web, etc.
 - Competencia: Cualquier Igavania o A-RPG.
 - Tiempos: Todo lo que me den.
 
-- Nombre: "Adaptacion Rol Resker" 
+#Nombre: "Adaptacion Rol Resker" 
 - Descripcion: Un Rol tradicional de papel adaptado para PC/Moviles.
 - Objetivos: Jugar.
 - Publico Objetivo: Usuarios de rol, usuarios moviles, etc. 
