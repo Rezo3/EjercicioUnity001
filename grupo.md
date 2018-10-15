@@ -5,7 +5,7 @@
 - Rezo (aka Marc): Dibujo 4, Modelado 4, Animacion 6, Texturizado 8, Programacion 8
 
 
-- Nombre: RoomDoom
+# Nombre: RoomDoom
 - Descripcion: Juego tipo plataforma, el jugador es un juguete que va pasando por diferentes obstáculos.
 - Objetivos: Completar las diferentes zonas con la mejor puntuación.
 - Publico Objetivo: Usuarios aburridos que busquen reirse.
